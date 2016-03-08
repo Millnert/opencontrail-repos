@@ -1,0 +1,62 @@
+# Requires a SSH account with GitHub
+
+# OpenContrail Core
+git@github.com:/Juniper/contrail-controller
+git@github.com:/Juniper/contrail-sandesh
+git@github.com:/Juniper/contrail-vrouter
+git@github.com:/Juniper/contrail-web-core
+git@github.com:/Juniper/contrail-vnc
+git@github.com:/Juniper/contrail-heat
+git@github.com:/Juniper/contrail-ceilometer-plugin
+git@github.com:/Juniper/contrail-generateDS
+
+# OpenContrail Build / Packaging
+git@github.com:/Juniper/contrail-packages
+git@github.com:/Juniper/contrail-packaging
+git@github.com:/Juniper/contrail-build
+
+# OpenContrail non-OpenStack
+git@github.com:/Juniper/contrail-kubernetes
+
+# Plugins & drivers
+git@github.com:/Juniper/contrail-neutron-plugin
+git@github.com:/Juniper/contrail-vcenter-plugin
+git@github.com:/Juniper/contrail-nova-vif-driver
+git@github.com:/Juniper/contrail-nova-extensions
+git@github.com:/Juniper/contrail-f5
+git@github.com:/Juniper/contrail-dpdk-extra-packages
+
+# Juniper Storage
+git@github.com:/Juniper/contrail-web-storage
+
+# Juniper BMS & deployment
+git@github.com:/Juniper/contrail-installer
+git@github.com:/Juniper/contrail-puppet
+git@github.com:/Juniper/contrail-web-server-manager
+git@github.com:/Juniper/contrail-fabric-utils
+git@github.com:/Juniper/contrail-server-manager
+git@github.com:/Juniper/contrail-provisioning
+git@github.com:/Juniper/contrail-aws-ci-provisioning
+
+# Juniper APIs
+git@github.com:/Juniper/contrail-go-api
+git@github.com:/Juniper/contrail-vrouter-java-api
+git@github.com:/Juniper/contrail-java-api
+
+# Juniper CI & Tests
+git@github.com:/Juniper/contrail-controller-test
+git@github.com:/Juniper/contrail-test-cli
+git@github.com:/Juniper/contrail-test
+
+# Juniper Third party
+git@github.com:/Juniper/contrail-third-party
+git@github.com:/Juniper/contrail-third-party-packages
+git@github.com:/Juniper/contrail-webui-third-party
+git@github.com:/Juniper/contrail-distro-third-party
+
+# Juniper forks
+git@github.com:/Juniper/contrail-dpdk
+
+# Third party contribs
+git@github.com:/eonpatapon/contrail-api-cli
+
