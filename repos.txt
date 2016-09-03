@@ -5,6 +5,7 @@ git@github.com:/Juniper/contrail-controller
 git@github.com:/Juniper/contrail-sandesh
 git@github.com:/Juniper/contrail-vrouter
 git@github.com:/Juniper/contrail-web-core
+git@github.com:/Juniper/contrail-web-controller
 git@github.com:/Juniper/contrail-vnc
 git@github.com:/Juniper/contrail-heat
 git@github.com:/Juniper/contrail-ceilometer-plugin
